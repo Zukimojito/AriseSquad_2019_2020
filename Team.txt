@@ -1,0 +1,41 @@
+Maxime : Développeur / animator
+Jiongjiong : Game désign/ animator/ développeur
+Jonathan : Développeur 
+eric : Développeur
+
+
+Maxime :
+- création menu principal
+- création animations esquives avant/arrièrre/droite/gauche
+- création script pour réanimer les loups
+- création menu pour la réanimation
+- création script pour faire combattre les loups entre eux
+- création script pour génération de la map
+- implémentation des attaques spéciales et esquives avec JiongJiong
+- implémentation arise
+
+
+JiongJiong :
+- création modèles riggés loup, joueur, squelette sur Blender
+- création chateau, arbres, dague
+- création animation attaque joueur/loup/squelette, marche, courir, arise, mort pour squelette et loup
+- création menu de pause
+- création écran de victoire
+- création script pour bouger la caméra et rendre invisible le curseur
+- création mini-map
+- création script caméra
+
+Jonathan :
+- création script fin de partie
+- refonte du menu de réanimation
+- refonte du menu principal
+- création barre de vie
+
+Eric :
+- développement des scripts des loups, du boss, du joueur pour le proto
+- implémentation de l'animation attaque, marcher et courir sur Unity pour le proto
+
+touches spéciales:
+- P pour menu pause
+- A/E attaques spéciales
+- Tab menu réanimation
